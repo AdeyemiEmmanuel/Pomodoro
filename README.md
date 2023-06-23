@@ -21,3 +21,4 @@ To use the Pomorodo timer, run the `main.py` file in your Python environment. Th
 Thank you for using Pomorodo!
 
 ## Preview
+![Screenshot (191)](https://github.com/AdeyemiEmmanuel/Pomorodo/assets/98936329/82a21407-c2ef-443b-8884-459d71d9146f)
