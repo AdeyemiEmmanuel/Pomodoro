@@ -1,11 +1,11 @@
-# Pomorodo
+# Pomodoro
 
-Pomorodo is a simple and intuitive Pomodoro timer application built to enhance productivity and manage time effectively. This application follows the Pomodoro Technique, a time management method developed by Francesco Cirillo in the late 1980s.
+Pomodoro is a simple and intuitive Pomodoro timer application built to enhance productivity and manage time effectively. This application follows the Pomodoro Technique, a time management method developed by Francesco Cirillo in the late 1980s.
 
 
 ## Usage
 
-To use the Pomorodo timer, run the `main.py` file in your Python environment. The timer interface will appear with the following options:
+To use the Pomodoro timer, run the `main.py` file in your Python environment. The timer interface will appear with the following options:
 
 - **Start**: Click the "Start" button to begin the Pomodoro timer. The timer will display the remaining time for each Pomodoro or break session.
 
